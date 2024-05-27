@@ -1,5 +1,5 @@
 # FastAPI-Users-with-SQLAdmin
  
-##.env
+## .env
 LOGIN=
 PASSWORD=
